@@ -1,5 +1,4 @@
 ## neural-style
-Implementing **A Neural Algorithm of Artistic Style** paper by Leon Gatys et al.
 ## Usage:
 using virtual environment to avoid installing Python packages globally which could break system tools or other projects. <br>
 ```bash
